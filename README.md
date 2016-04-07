@@ -2,11 +2,7 @@
 
 This is a MySQL version of the Microsoft Access 2010 *Northwind* sample database, re-engineered for MySQL 5+.
 
-The Northwind database is an excellent tutorial schema for a 
-small-business ERP, with customers, orders, inventory, purchasing, 
-suppliers, shipping, employees, and single-entry accounting.
-
-The Northwind sample database provided with Microsoft Access is a tutorial schema for managing small business customers, orders, inventory, purchasing, suppliers, shipping, and employees. This version is a fork from [MyWind](https://github.com/dalers/mywind), created for use with [MySQL](http://www.mysql.com).
+The Northwind sample database was provided with Microsoft Access as a tutorial schema for managing small business customers, orders, inventory, purchasing, suppliers, shipping, and employees. Northwind is an excellent tutorial schema for a small-business ERP, with customers, orders, inventory, purchasing, suppliers, shipping, employees, and single-entry accounting.
 
 ## Included Files
 
@@ -35,3 +31,7 @@ The Northwind sample database provided with Microsoft Access is a tutorial schem
     * Added foreign key relationships visually
     * Exported EER Diagrams
 * Removed redundant indexes and deleted old files
+
+## Credits
+
+This version is a fork from [MyWind](https://github.com/dalers/mywind)
