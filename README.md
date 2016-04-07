@@ -8,7 +8,7 @@ The Northwind sample database was provided with Microsoft Access as a tutorial s
 
 * Model:
     * northwind.mwb (MySQL Workbench v6.2)
-* EER Diagram:
+* ER Diagram:
     * northwind-erd.pdf
     * northwind-erd.png
 * Structure:
@@ -29,7 +29,7 @@ The Northwind sample database was provided with Microsoft Access as a tutorial s
 * Added foreign key relationships and created ERD using MySQL Workbench.
 * Imported SQL into MySQL Workbench
     * Added foreign key relationships visually
-    * Exported EER Diagrams
+    * Exported ER Diagrams
 * Removed redundant indexes and deleted old files
 
 ## Credits
